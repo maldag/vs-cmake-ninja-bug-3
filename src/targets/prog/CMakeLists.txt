@@ -1,0 +1,1 @@
+add_executable(test ${src_dir}/root/prog/main.cpp)

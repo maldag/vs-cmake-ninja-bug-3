@@ -1,0 +1,1 @@
+add_library(libtest SHARED "${src_dir}/root/lib/lib.cpp")
