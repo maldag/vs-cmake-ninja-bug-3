@@ -1,1 +1,1 @@
-add_library(libtest SHARED "${src_dir}/root/lib/lib.cpp")
+add_library(libtest SHARED "${PATH_TO_REPOROOT}/src/root/lib/lib.cpp")

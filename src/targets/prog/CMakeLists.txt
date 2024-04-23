@@ -1,1 +1,1 @@
-add_executable(test ${src_dir}/root/prog/main.cpp)
+add_executable(test ${PATH_TO_REPOROOT}/src/root/prog/main.cpp)
